@@ -1,6 +1,6 @@
 # fastMRI Robustness Probe
 
-**NeurIPS 2026 Submission — Angle 1: Where Do Robust Models Actually Fail?**
+**Where Do Robust Models Actually Fail?**
 
 This codebase measures how deep learning MRI reconstruction models fail under
 controlled distribution shifts, using metrics that go beyond SSIM/PSNR to expose
